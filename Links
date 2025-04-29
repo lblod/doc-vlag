@@ -2,3 +2,4 @@ Testversie van het applicatieprofiel voor Besluit Mobiliteit, met aanpassingen i
 Beschrijving LDES feed voor Mobiliteit Besluit (ABB): https://gist.github.com/nvdk/57a74e7022a4007ac037a580dcb58a83 
 Implementatiemodel VLAG: https://wegenenverkeer.data.dev-vlaanderen.be/doc/implementatiemodel/vlag/
 LDES Register (ABB): https://roadsigns.lblod.info/ldes-mow-register/1
+TEST WMS voor ontwerpen: https://apps-dev.mow.vlaanderen.be/opendata-geowebcache/service/wms?REQUEST=GetMap&SERVICE=WMS&VERSION=1.3.0&FORMAT=image%2Fpng&STYLES=&TRANSPARENT=TRUE&LAYERS=ontwerpen&TILED=true&SRS=EPSG%3A31370&WIDTH=256&HEIGHT=256&CRS=EPSG%3A31370&BBOX=110368%2C194039.75%2C110376%2C194047.75
